@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="coding" width="400" scr="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<h3 align="center">WEB DEVELOPER | POSTMAN_STUDENT_EXPERT | 2-D ANIMATION.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manni2000&label=Profile%20views&color=0e75b6&style=flat" alt="manni2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manishkr_mandal" target="blank"><img src="https://img.shields.io/twitter/follow/manishkr_mandal?logo=twitter&style=for-the-badge" alt="manishkr_mandal" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working on **Campus Ambassador at E-cell, IIT Hyderabad**
 
-- 📝 I regularly write articles on [https://medium.com/@manishmandal9734/basics-understanding-of-data-structure-algorithms-dd47faa1830a](https://medium.com/@manishmandal9734/basics-understanding-of-data-structure-algorithms-dd47faa1830a)
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **manishmandal9734@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk](https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think i'm funny guy.**
+- 📄 Download my resume [https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk](https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
