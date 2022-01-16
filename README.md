@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/manishkr_mandal" target="blank"><img src="https://img.shields.io/twitter/follow/manishkr_mandal?logo=twitter&style=for-the-badge" alt="manishkr_mandal" /></a> </p>
 
-- 🔭 I’m currently working on **Campus Ambassador at E-cell, IIT Hyderabad**
+- 🔭 I’m currently working in **Campus Ambassador at E-cell, IIT Hyderabad**
 
 - 🌱 I’m currently learning **ReactJs**
 
