@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
-<h3 align="center">WEB DEVELOPER | POSTMAN_STUDENT_EXPERT | 2-D ANIMATION.</h3>
+<h3 align="center">LEARNER | DEVELOPER | SOPHOMORE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manni2000&label=Profile%20views&color=0e75b6&style=flat" alt="manni2000" /> </p>
 
