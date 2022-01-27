@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manishmandal9734@gmail.com**
 
-- 📄 Download my resume [https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk](https://drive.google.com/file/d/1rG7aF3vzWjGp56T_1JbKDg5IqQv2_AwN/view?usp=drivesdk)
+- 📄 Download my resume: https://drive.google.com/file/d/1046KrcydHEKgkcMRk8N3P5ujyjQJ1vCb/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
