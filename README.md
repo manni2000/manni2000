@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manni2000&label=Profile%20views&color=0e75b6&style=flat" alt="manni2000" /> </p>
 
-- 🔭 I’m working in **Open sources contributor in GirlScript Foundation**
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Web Development**
