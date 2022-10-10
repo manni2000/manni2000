@@ -7,7 +7,7 @@
 👨 &nbsp; <h1> Hi there, I'm Manish kumar.</h1>  
 🎓 &nbsp;I'm currently pursuing Information Technology From IIEST, Shibpur.\
 💡 &nbsp;Some technologies, I enjoy working with Frontend Development.<br>
-🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and ReactJs.
+🌱 &nbsp;I'm on track for learning more about Data Structure & Algorithm and ReactJs.
 
 <h3>🛠 Tech Stack</h3>
 
