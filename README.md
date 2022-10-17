@@ -6,15 +6,15 @@
 
 👨 &nbsp; <h1> Hi there, I'm Manish kumar.</h1>  
 🎓 &nbsp;I'm currently pursuing Information Technology From IIEST, Shibpur.\
-💡 &nbsp;Some technologies, I enjoy working with Frontend Development.<br>
+💡 &nbsp;Some technologies, I'm full stack developer .<br>
 🌱 &nbsp;I'm on track for learning more about Data Structure & Algorithm and ReactJs.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java
-- 🌐 &nbsp; CSS | JavaScript | HTML
-- 🛢 &nbsp; MySQL | Linux
-- 🔧 &nbsp; Github | Visual code |
+- 💻 &nbsp; Languages- C++ | Java
+- 🌐 &nbsp; Development- Full stack developer
+- 🛢 &nbsp; Database- MySQL | NoSQL
+- 🔧 &nbsp; Other- Linux | Github | V.S Code
 
 <br>
 
