@@ -5,7 +5,7 @@
 
 
 👨 &nbsp; <h1> Hi there, I'm Manish kumar.</h1>  
-🎓 &nbsp;I'm Currently Pursuing Information Technology From IIEST, Shibpur.
+🎓 &nbsp;I'm Currently Pursuing Information Technology From IIEST, Shibpur.\
 💡 &nbsp;Some technologies, I'm full stack developer .<br>
 🌱 &nbsp;I'm on track for learning more about Data Structure & Algorithm and ReactJs.
 
