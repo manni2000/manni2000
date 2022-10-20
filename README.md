@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Languages- C++ | Java
-- 🌐 &nbsp; Development- Full stack developer
-- 🛢 &nbsp; Database- MySQL | NoSQL
-- 🔧 &nbsp; Other- Linux | Github | V.S Code
+- 🌐 &nbsp; Development- Full Stack Developer
+- 🛢 &nbsp; Database- MySQL | NoSQL(MongoDB)
+- 🔧 &nbsp; Other- Linux | Github | V.S Code.
 
 <br>
 
