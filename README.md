@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages- C++ | Java
-- 🌐 &nbsp; Development- Full Stack Developer
-- 🛢 &nbsp; Database- MySQL | NoSQL(MongoDB)
-- 🔧 &nbsp; Other- Linux | Github | V.S Code.
+- 💻 &nbsp; Languages: C, C++, HTML/CSS, JAVASCRIPT
+- 🌐 &nbsp; Technologies/Frameworks: EXPRESSJS, NODEJS, REACTJS
+- 🛢 &nbsp; Database: MONGODB, MYSQL
+- 🔧 &nbsp; Developer Tools: VS CODE, GIT/GITHUB, FIGMA, POSTMAN, JUPYTER-NOTEBOOK.
 
 <br>
 
