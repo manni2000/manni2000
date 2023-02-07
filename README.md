@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages: C, C++, HTML/CSS, JAVASCRIPT
-- 🌐 &nbsp; Technologies/Frameworks: EXPRESSJS, NODEJS, REACTJS
-- 🛢 &nbsp; Database: MONGODB, MYSQL
-- 🔧 &nbsp; Developer Tools: VS CODE, GIT/GITHUB, FIGMA, POSTMAN, JUPYTER-NOTEBOOK.
+- 💻 &nbsp; Languages: C, C++, Html/Css, Javascript.
+- 🌐 &nbsp; Technologies/Frameworks: ExpressJs, NodeJs, ReactJs
+- 🛢 &nbsp; Database: MongoDB, MySQL
+- 🔧 &nbsp; Developer Tools: Vs-Code, Git/GitHub, Figma, Postman, Juyter-NoteBook.
 
 <br>
 
