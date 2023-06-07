@@ -7,14 +7,14 @@
 👨 &nbsp; <h1> Hi there, I'm Manish kumar.</h1>  
 🎓 &nbsp;I'm Currently Pursuing B.tech in Information Technology From IIEST, Shibpur.\
 💡 &nbsp;I'm well known as Full Stack developer .<br>
-🌱 &nbsp;I'm on track for learning more about Data Structure & Algorithm and ReactJs.
+🌱 &nbsp;I'm on track for learning more about Data Structure & Algorithm and Deep Learning.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages: C, C++, Html/Css, Javascript.
-- 🌐 &nbsp; Technologies/Frameworks: ExpressJs, NodeJs, ReactJs
+- 💻 &nbsp; Languages: C, C++, Java, HTML/CSS.
+- 🌐 &nbsp; Technologies/Frameworks: Javascript, ExpressJs, NodeJs, ReactJs
 - 🛢 &nbsp; Database: MongoDB, MySQL
-- 🔧 &nbsp; Developer Tools: Vs-Code, Git/GitHub, Figma, Postman, Juyter-NoteBook.
+- 🔧 &nbsp; Developer Tools: Vs-Code, Git/GitHub, Figma, Postman, Jupyter_NoteBook.
 
 <br>
 
