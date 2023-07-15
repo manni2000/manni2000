@@ -19,7 +19,7 @@
 <br>
 
 ## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/manish-kr-mandal/"><img align="left" width="150" height="146" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif?raw=true"></a>
-- Sharing updates on <br><a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a> & <a href="https://twitter.com/Manishkr_Mandal">Twitter</a>😇
+- Sharing updates on <br><a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a>😇
 </br>
 </br>
 
