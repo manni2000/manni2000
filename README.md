@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Languages: C, C++, Java, HTML/CSS.
-- 🌐 &nbsp; Technologies/Frameworks: Javascript, ExpressJs, NodeJs, ReactJs
+- 🌐 &nbsp; Technologies/Frameworks: Javascript, ExpressJs, NodeJs, ReactJs(intermediate).
 - 🛢 &nbsp; Database: MongoDB, MySQL
-- 🔧 &nbsp; Developer Tools: Vs-Code, Git/GitHub, Figma, Postman, Jupyter_NoteBook.
+- 🔧 &nbsp; Developer Tools: Vs-Code, Git/GitHub, Figma, Postman, Jupyter_NoteBook, Netlify.
 
 <br>
 
