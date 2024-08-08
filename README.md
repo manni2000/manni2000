@@ -14,7 +14,7 @@
 - 💻 &nbsp; Languages: C/C++(Proficient), JAVASCRIPT(Intermediate), JAVA(Basic)
 - 🌐 &nbsp; Technologies/Frameworks: : HTML+CSS(Proficient), REACTJS(Intermediate), EXPRESSJS+NODEJS(Intermediate)
 - 🛢 &nbsp; Database/Others: MYSQL(Proficient), MONGODB(Intermediate), AWS (Cloud Platform), RESTful APIs
-- 🔧 &nbsp; Developer Tools: VS CODE, GIT+GITHUB, FIGMA(UI/UX Design), POSTMAN, GOOGLE COLAB, NETLIFY.
+- 🔧 &nbsp; Developer Tools: VS CODE, GIT+GITHUB, FIGMA(UI/UX Design), POSTMAN, GOOGLE COLAB, NETLIFY, RENDER AND VERCEL CLOUD HOISTING.
 
 <br>
 
