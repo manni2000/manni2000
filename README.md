@@ -7,7 +7,7 @@
 👨 &nbsp; <h1> Hi there, I'm Manish Kumar.</h1>  
 🎓 &nbsp; I'm recently graduated with B.tech in Information Technology From IIEST, Shibpur.\
 💡 &nbsp; I'm well known as a Full Stack developer .<br>
-🌱 &nbsp; I'm on track for learning more about Deep Learning.
+🌱 &nbsp; I'm on track for learning more about Machine Learning.
 
 <h3>🛠 Tech Stack</h3>
 
