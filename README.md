@@ -20,7 +20,9 @@ RESTFUL APIs, AGILE METHODOLOGY
 <br>
 
 ## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/manish-kr-mandal/"></a>
-- Sharing updates on <br><a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a>😇
+- Sharing updates on: <a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a>
+
+- My Updated Resume: <a href="https://drive.google.com/file/d/1YkD-LOE8xwg-DlYDuKk-rDB-V6d63_LH/view?usp=sharing">Resume</a>
 </br>
 </br>
 
