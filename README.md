@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages/Web Technologies: C, C++, CORE JAVA(Basic), HTML, CSS, JAVASCRIPT
+- 💻 &nbsp; Languages/Web Technologies: C, C++, CORE JAVA, HTML, CSS, JAVASCRIPT
 - 🌐 &nbsp; Frameworks: REACTJS, EXPRESSJS, NODEJS, MATERIAL-UI, TAILWIND CSS, BOOTSTRAP
 - 🛢 &nbsp; Databases/Cloud Applications: MYSQL, MONGODB, FIREBASE, AWS, VERCEL, NETLIFY, RENDER
 - 🔧 &nbsp; Developer Tools/Tech Concepts: V.S CODE, GIT/GITHUB, FIGMA(UI/UX Design), CANVA, POSTMAN,
