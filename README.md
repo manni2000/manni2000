@@ -4,10 +4,14 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 
-👨 &nbsp; <h1> Hi there, I'm Manish Kumar.</h1>  
-🎓 &nbsp; I'm recently graduated with B.tech in Information Technology From IIEST, Shibpur.\
-💡 &nbsp; I'm well known as a Full Stack developer .<br>
-🌱 &nbsp; I'm on track for learning more about Machine Learning.
+Current Role:
+I'm working as a Junior Full-Stack Developer at GreenAI Services Pvt Ltd, working with a tech stack that includes React.js for the front-end and Django for the back-end, integrated through Electron.js. My key responsibilities involve leading and contributing to efficient software pipelines, designing user-friendly front-end and robust back-end components, deploying applications to cloud platforms like google cloud platform and docker, seamlessly integrating AI/ML models, ensuring quality assurance and optimization of the codebase, and staying updated on emerging technologies.
+
+Education:
+I recently graduated with a Bachelor of Technology in Information Technology from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur. I have a strong foundation in core IT subjects such as Data Structures & Algorithms, Database Management Systems, Computer Networks, Operating Systems, and Object-Oriented Programming.
+
+Previous Experience:
+I worked as a SDE Intern at Bytes Bridge, where i contributed to building and optimizing components for mys-shaadi.com using the MERN stack. This experience strengthened your skills in user authentication, website performance improvement, and system optimization. Additionally, I served as a Full-Stack Developer Intern at Baoiam Innovations Pvt Ltd.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -21,8 +25,6 @@ RESTFUL APIs, AGILE METHODOLOGY.
 
 ## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/manish-kr-mandal/"></a>
 - Sharing updates on: <a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a>
-
-- My Updated Resume: <a href="https://drive.google.com/file/d/1OJhL-wz_LILOgoZ63N_RmFuIFErFHtgB/view?usp=sharing">Resume</a>
 </br>
 </br>
 
