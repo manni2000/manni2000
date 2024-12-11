@@ -1,31 +1,61 @@
+# 🌟 Welcome to My GitHub Profile!
 
+## 👨🏻‍💻 About Me
 
+Hello there! I'm **Manish Kumar**, a passionate and dedicated **Junior Full-Stack Developer** at **GreenAI Services Pvt Ltd**. My work revolves around creating innovative, user-friendly, and scalable solutions powered by modern technologies. 
 
-## 👨🏻‍💻 &nbsp;About Me
+### 🚀 Current Role:
+- **Position**: Junior Full-Stack Developer at GreenAI Services Pvt Ltd.
+- **Tech Stack**: 
+  - Front-End: **React.js**
+  - Back-End: **Django**
+  - Cross-Platform Integration: **Electron.js**
+- **Key Responsibilities**:
+  - Developing efficient software pipelines.
+  - Designing intuitive front-end interfaces and robust back-end architectures.
+  - Deploying applications to **Google Cloud Platform** and **Docker**.
+  - Seamlessly integrating **AI/ML models**.
+  - Ensuring codebase quality, performance optimization, and staying at the forefront of technological advancements.
 
+### 🎓 Education:
+I hold a **Bachelor of Technology in Information Technology** from **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**. During my academic journey, I gained expertise in:
+- **Data Structures & Algorithms**
+- **Database Management Systems**
+- **Computer Networks**
+- **Operating Systems**
+- **Object-Oriented Programming**
 
-Current Role:
-I'm working as a Junior Full-Stack Developer at GreenAI Services Pvt Ltd, working with a tech stack that includes React.js for the front-end and Django for the back-end, integrated through Electron.js. My key responsibilities involve leading and contributing to efficient software pipelines, designing user-friendly front-end and robust back-end components, deploying applications to cloud platforms like google cloud platform and docker, seamlessly integrating AI/ML models, ensuring quality assurance and optimization of the codebase, and staying updated on emerging technologies.
+### 💼 Previous Experience:
+- **SDE Intern** at **Bytes Bridge**:
+  - Built and optimized components for **mys-shaadi.com** using the **MERN stack**.
+  - Enhanced skills in **user authentication**, **website performance**, and **system optimization**.
+- **Full-Stack Developer Intern** at **Baoiam Innovations Pvt Ltd**:
+  - Contributed to dynamic and impactful web development projects.
 
-Education:
-I recently graduated with a Bachelor of Technology in Information Technology from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur. I have a strong foundation in core IT subjects such as Data Structures & Algorithms, Database Management Systems, Computer Networks, Operating Systems, and Object-Oriented Programming.
+---
 
-Previous Experience:
-I worked as a SDE Intern at Bytes Bridge, where i contributed to building and optimizing components for mys-shaadi.com using the MERN stack. This experience strengthened your skills in user authentication, website performance improvement, and system optimization. Additionally, I served as a Full-Stack Developer Intern at Baoiam Innovations Pvt Ltd.
+## 🛠 Tech Stack
 
-<h3>🛠 Tech Stack</h3>
+### 💻 Languages & Web Technologies:
+- **C**, **C++**, **Java**, **Python**, **HTML**, **CSS**, **JavaScript**
 
-- 💻 &nbsp; Languages/Web Technologies: C, C++, CORE JAVA, PYTHON, HTML, CSS, JAVASCRIPT
-- 🌐 &nbsp; Frameworks: VUEJS, REACTJS, DJANGO, EXPRESSJS, NODEJS, MATERIAL-UI, TAILWIND CSS, BOOTSTRAP
-- 🛢 &nbsp; Databases/Cloud Applications: MYSQL, MONGODB, FIREBASE, AWS, VERCEL, NETLIFY, RENDER
-- 🔧 &nbsp; Developer Tools/Tech Concepts: V.S CODE, GIT/GITHUB, FIGMA(UI/UX Design), CANVA, POSTMAN,
-RESTFUL APIs, AGILE METHODOLOGY.
+### 🌐 Frameworks:
+- **Vue.js**, **React.js**, **Django**, **Express.js**, **Node.js**
+- UI Libraries: **Material-UI**, **Tailwind CSS**, **Bootstrap**
 
-<br>
+### 🛢 Databases & Cloud Platforms:
+- **MySQL**, **MongoDB**, **Firebase**
+- **AWS**, **Google Cloud**, **Vercel**, **Netlify**, **Render**
 
-## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/manish-kr-mandal/"></a>
-- Sharing updates on: <a href="https://www.linkedin.com/in/manish-kr-mandal/">LinkedIn</a>
-</br>
-</br>
+### 🔧 Developer Tools & Tech Concepts:
+- **VS Code**, **Git/GitHub**, **Figma (UI/UX Design)**, **Canva**
+- **Postman**, **RESTful APIs**, **Agile Methodology**
 
-<br>
+---
+
+## 🌎 Reach Out to Me:
+- 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/manish-kr-mandal/)** to explore my professional journey and updates.
+
+---
+
+Thank you for visiting my GitHub! 🚀 Let's connect, collaborate, and create! 🌟
