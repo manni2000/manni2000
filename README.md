@@ -8,12 +8,12 @@ Hello there! I'm **Manish Kumar**, a passionate and dedicated **Junior Full-Stac
 - **Position**: Junior Full-Stack Developer at GreenAI Services Pvt Ltd.
 - **Tech Stack**: 
   - Front-End: **React.js**
-  - Back-End: **Django**
-  - Cross-Platform Integration: **Electron.js**
+  - Back-End: **Nodejs**
+  - Database: **MongoDB**
 - **Key Responsibilities**:
   - Developing efficient software pipelines.
   - Designing intuitive front-end interfaces and robust back-end architectures.
-  - Deploying applications to **Google Cloud Platform** and **Docker**.
+  - Deploying applications to **Google Cloud Platform** and **Vercel**.
   - Seamlessly integrating **AI/ML models**.
   - Ensuring codebase quality, performance optimization, and staying at the forefront of technological advancements.
 
@@ -37,7 +37,7 @@ I hold a **Bachelor of Technology in Information Technology** from **Indian Inst
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Web Technologies:
-- **C**, **C++**, **Java**, **Python**, **HTML**, **CSS**, **JavaScript**
+- **C**, **C++**, **Python**, **HTML**, **CSS**, **JavaScript**
 
 ### 🌐 Frameworks:
 - **Vue.js**, **React.js**, **Django**, **Express.js**, **Node.js**
