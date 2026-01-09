@@ -2,20 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Hello there! I'm **Manish Kumar**, a passionate and dedicated **Junior Full-Stack Developer** at **GreenAI Services Pvt Ltd**. My work revolves around creating innovative, user-friendly, and scalable solutions powered by modern technologies. 
-
-### 🚀 Current Role:
-- **Position**: Junior Full-Stack Developer at GreenAI Services Pvt Ltd.
-- **Tech Stack**: 
-  - Front-End: **React.js**
-  - Back-End: **Nodejs**
-  - Database: **MongoDB**
-- **Key Responsibilities**:
-  - Developing efficient software pipelines.
-  - Designing intuitive front-end interfaces and robust back-end architectures.
-  - Deploying applications to **Google Cloud Platform** and **Vercel**.
-  - Seamlessly integrating **AI/ML models**.
-  - Ensuring codebase quality, performance optimization, and staying at the forefront of technological advancements.
+Hello there! I'm **Manish Kumar**, a passionate and dedicated **Full-Stack Developer**. My work revolves around creating innovative, user-friendly, and scalable solutions powered by modern technologies. 
 
 ### 🎓 Education:
 I hold a **Bachelor of Technology in Information Technology** from **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**. During my academic journey, I gained expertise in:
@@ -24,14 +11,6 @@ I hold a **Bachelor of Technology in Information Technology** from **Indian Inst
 - **Computer Networks**
 - **Operating Systems**
 - **Object-Oriented Programming**
-
-### 💼 Previous Experience:
-- **SDE Intern** at **Bytes Bridge**:
-  - Built and optimized components for **mys-shaadi.com** using the **MERN stack**.
-  - Enhanced skills in **user authentication**, **website performance**, and **system optimization**.
-- **Full-Stack Developer Intern** at **Baoiam Innovations Pvt Ltd**:
-  - Contributed to dynamic and impactful web development projects.
-
 ---
 
 ## 🛠 Tech Stack
