@@ -4,9 +4,8 @@
 
 Hello there! I'm **Manish Kumar**, a passionate and dedicated **Full-Stack Developer**. My work revolves around creating innovative, user-friendly, and scalable solutions powered by modern technologies. 
 
-### 🎓 Education:
+## 🎓 Education:
 I hold a **Bachelor of Technology in Information Technology** from **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**. 
----
 
 
 ## 🌎 Reach Out to Me:
