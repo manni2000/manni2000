@@ -11,8 +11,6 @@ with a focus on useful AI, real-time workflows, and performance.
 ![Experience](https://img.shields.io/badge/Experience-Nearly_2_Years-111827?style=for-the-badge)
 ![Education](https://img.shields.io/badge/IIEST_Shibpur-IT_2024-111827?style=for-the-badge)
 
-**Kolkata, India · Open to Full Stack & AI Application roles**
-
 <!-- Add your actual links below and remove this comment:
 [Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL)
 -->
